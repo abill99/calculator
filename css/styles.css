@@ -1,0 +1,16 @@
+.showing {
+  visibility: visible;
+}
+
+.hiding {
+  visibility: visible;
+}
+
+p {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+p:hover {
+  text-decoration: underline;
+}
