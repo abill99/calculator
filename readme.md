@@ -2,7 +2,7 @@
 
 #### By **Angela Billingsley**
 
-#### Hello World Style Practice Calculator Demonstation website usinhg Git and Markup tools
+#### Hello World Style Practice Calculator Demonstation website using Git and Markup tools
 
 ## Technologies Used 
 

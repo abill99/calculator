@@ -1,9 +1,9 @@
 .showing {
-  visibility: visible;
+  display: block;
 }
 
 .hiding {
-  visibility: visible;
+  display:none;
 }
 
 p {
